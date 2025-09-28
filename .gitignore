@@ -1,0 +1,20 @@
+# Delphi compiled files
+*.dcu
+*.exe
+*.res
+*.cfg
+*.cbk
+*.~*
+*.local
+*.identcache
+*.tvsconfig
+*.ddp
+
+# Build directories
+__history/
+Win32/
+Win64/
+
+# IDE files
+*.dsk
+*.desktop
